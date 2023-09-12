@@ -1,3 +1,5 @@
+JSP에서 다른 JSP 파일을 현재 JSP 페이지에 포함시키는 코드이다.
+------------------------------------------------------------------
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html>
