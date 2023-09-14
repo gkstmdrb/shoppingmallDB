@@ -12,7 +12,7 @@
 ![image](https://github.com/gkstmdrb/shoppingmallDB/assets/114748816/0e37ceb8-45d7-468b-9a3f-9c1aeb26aa21)
 <br><br><br>
 
-## 회원정보조회
+## [회원정보조회](https://github.com/gkstmdrb/shoppingmallDB/blob/main/Shoppingmall/src/main/webapp/member_search_list.jsp)
 ![image](https://github.com/gkstmdrb/shoppingmallDB/assets/114748816/8cd87a0c-0133-4d89-b717-f5fe3f6f1639)
 회원정보조회 화면을 띄운 후 회원 번호를 입력하고 조회를 누르면, <br>
 DB에 등록되어 있는 회원 중 번호가 일치하는 회원을 찾아 조회 할 수 있다. <br><br>
