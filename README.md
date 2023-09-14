@@ -8,5 +8,5 @@
 회원정보를 입력 후 취소를 누르면 초기화가 되며, <br>
 조회를 누르면 현재 회원목록이 나온다. <br>
 
-# 회원목록
+### 회원목록조회/수정
 ![image](https://github.com/gkstmdrb/shoppingmallDB/assets/114748816/0e37ceb8-45d7-468b-9a3f-9c1aeb26aa21)
