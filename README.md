@@ -18,3 +18,7 @@
 DB에 등록되어 있는 회원 중 번호가 일치하는 회원을 찾아 조회 할 수 있다. <br><br>
 
 ![image](https://github.com/gkstmdrb/shoppingmallDB/assets/114748816/1d5271b0-f698-472e-8615-07710a6a9d50)
+<br><br>
+
+## [회원매출조회]
+![image](https://github.com/gkstmdrb/shoppingmallDB/assets/114748816/ac0b0952-008d-406f-ad47-71444050a334)
