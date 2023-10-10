@@ -1,4 +1,3 @@
-![image](https://github.com/gkstmdrb/shoppingmallDB/assets/114748816/78ea4ce8-87ce-446c-8b68-2b136f06cd68)# shoppingmallDB
 ## 쇼핑몰 회원관리 <br>
 ![image](https://github.com/gkstmdrb/shoppingmallDB/assets/114748816/a0545b13-7d47-4cfe-9cf5-bfbe55211e06)
 <br>
